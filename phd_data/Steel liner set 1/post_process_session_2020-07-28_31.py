@@ -357,7 +357,7 @@ label_added_H75 = False
 label_added_H100 = False
 
 # Save figure as .PNG
-figure_name = 'FB_map'
+figure_name = 'fb_map'
 plt.savefig(figure_folder +'/' + figure_name + '.png')
 #%% RESULTS: FLASHBACK PROPENSITY MAP FOR VARYING HYDROGEN CONTENT AND PHI at design point
 index = index_u_u_design 
